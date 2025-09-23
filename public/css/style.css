@@ -7,7 +7,7 @@ body {
 
 header {
   background-color: white;
-  overflow: hidden;
+  overflow: visible;
   position: fixed;
   top: 0;
   right: 0;
@@ -62,8 +62,8 @@ nav .navigasi li a {
   /* menghilangkan garis bawah pada link */
   text-decoration: none;
   /* warna teks hitam */
-  color: #454545; 
- /* .ketebalan font medium */
+  color: #454545;
+  /* .ketebalan font medium */
   font-weight: 500;
 }
 
